@@ -1,6 +1,6 @@
 ![ZipRebel logo](http://zeroturnaround.com/wp-content/uploads/2015/03/ZipRebel-640x175.png)
 
-ZipRebel is a file compression tool that is so powerful it can reduce the entire internet to less than a byte of data. Here's a more detailed [announcement](http://zeroturnaround.com/blog/download-the-internet-in-milliseconds/).
+ZipRebel is a file compression tool that is so powerful it can reduce the entire internet to less than a byte of data. Here's a more detailed [announcement](http://zeroturnaround.com/blog/ziprebel-download-the-internet-in-milliseconds/).
 
 ## How to use it?
 
